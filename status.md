@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Ayden Long
 
 #### Your section leader's name
 
-TODO
+Professor Andrew Rosen
 
 #### Project title
 
-TODO
+Movie Recommendation System
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Prompts the user for their genre of choice, converts their choice to a TMDb API genre ID, prints up to 5 movie recommendations using the TMDb API, and displays the movie title, overview, and release date. 
 
 #### What have you not done for your project yet?
 
-TODO
+Display movie posters with the movie recommendations, bring the project into Ren'Py, use something like ChatGPT as a middleman to create unbiased, more specific, and personalized movie recommendations. 
 
 #### What problems, if any, have you encountered?
 
-TODO
+The API handling is a bit confusing, I will have to learn my way around Ren'Py and incorporate AI models into my code. 
